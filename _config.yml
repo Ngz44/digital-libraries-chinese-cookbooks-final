@@ -25,7 +25,7 @@ title: Early 20th Century American published Chinese cookbooks
 tagline: Collection of U.S. published Chinese cookbooks
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
+description: "This collection consists of digitized pages of Chinese cuisine cookbooks published within the U.S. during the early 20th century (1900-1950). It will contain several pages from 4-5 cookbooks. The focus of the pages (items) scanned will be regarding the language/wording and illustrations within them."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: ZhengKai Ng
 
@@ -62,7 +62,7 @@ metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vRR2bKsfVg4uxGHfQF
 # (this is done automatically by gh-pages build)
 #
 # dev mode turns on ability to change metadata
-development-mode: true
+development-mode: false
 # ignore stuff
 exclude: [docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
