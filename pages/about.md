@@ -20,11 +20,11 @@ For more information about the intellectual and social context of this collectio
 
 - [MIME](https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/#format)
 
--[W3C Date and Time Formats](https://www.w3.org/TR/NOTE-datetime)
+- [W3C Date and Time Formats](https://www.w3.org/TR/NOTE-datetime)
 
--[LCNAF](https://id.loc.gov/authorities/names.html)
+- [LCNAF](https://id.loc.gov/authorities/names.html)
 
--[ISO639-1](https://www.loc.gov/standards/iso639-2/php/code_list.php)
+- [ISO639-1](https://www.loc.gov/standards/iso639-2/php/code_list.php)
 
 
 
