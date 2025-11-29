@@ -3,6 +3,8 @@ Home,/
 Browse,/browse.html
 Locations,/locations.html
 Timeline,/timeline.html
-Data,/data.html
+Data,,
+Data,/data.html,Data
+Metadata Application Profile,/metadataprofile.html,Data
 About,,
 About the Collection,/about.html,About
