@@ -26,6 +26,9 @@ For more information about the intellectual and social context of this collectio
 
 - [ISO639-1](https://www.loc.gov/standards/iso639-2/php/code_list.php)
 
+## Rights Statement
+
+I believe that these cookbooks fall under Non-Commercial Use Permitted, and this repository is not meant for commercial use.
 
 
 
